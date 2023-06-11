@@ -4,10 +4,6 @@
 
 The XDC developer community has made it easy for new and existing users, even those with little or no technical expertise, to quickly set up a masternode with a simple, one-click installer.&#x20;
 
-{% embed url="https://www.youtube.com/watch?v=_tQeje9rdxQ" %}
-
-
-
 ## Setting Up XDC One-Click Installer (macOS)
 
 1. Download the One-Click Installer: [https://xinfin.org/setup-masternode.php](https://xinfin.org/setup-masternode.php) (This option is available for Windows, Linux, and macOS)
